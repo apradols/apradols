@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/apradols">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=apradols&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=2c0735&text_color=a663cc&icon_color=6f2dbd&title_color=b9faf8&border_color=2c0735"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apradols&layout=compact&langs_count=16&bg_color=2c0735&text_color=a663cc&icon_color=6f2dbd&title_color=b9faf8&border_color=2c0735"/>
+  <img height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)"/>
+  <img height="160em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
   
 <div style="display: inline_block"><br>
