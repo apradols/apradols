@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/apradols">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=apradols_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=apradols&show_icons=true&theme=github_dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apradols&layout=compact&theme=github_dark"/>
 </div>
   
