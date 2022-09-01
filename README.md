@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/apradols">
-  <img height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)"/>
-  <img height="160em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
